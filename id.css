@@ -4,6 +4,10 @@ div{
     margin: 10px;
     border: 1px solid gey;
     border-radius: 5px;
+    height:500%;
+    weight:400%;
+    font-size:small;
+    font-weight:1;
 }
 
 .heading{
