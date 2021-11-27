@@ -1,17 +1,22 @@
-.div1{
-    padding-top: 2%;
-    padding-left: 3%;
-}
-
-#btn1{
-    display: block;
-    width: 30%;
-    padding: 5px 15px;
-    font-size: 16px;
-    text-align: start;
+div{
+    background-color: rgb(172, 172, 172);
+    padding: 5px 10px;
+    margin: 10px;
+    border: 1px solid gey;
     border-radius: 5px;
+    width: 50%;
+    height: 150%;
 }
 
+.heading{
+    margin-left: 1%;
+}
+
+@media screen  and (min-width:1080px){
+    body{
+        background-color: white;
+    }
+}
 
 
 
